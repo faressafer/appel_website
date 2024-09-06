@@ -27,12 +27,12 @@ Once you've cloned the repository and navigated into the project directory, inst
 Using npm:
 
 bash
-Copier le code
-npm install
-Using Yarn:
 
+npm install
+
+Using Yarn:
 bash
-Copier le code
+
 yarn install
 
 ### 3. Start the Development Server
@@ -42,10 +42,10 @@ Now, start the development server. This will compile and serve the app, and you 
 Using npm:
 
 bash
-Copier le code
 npm run dev
+
 Using Yarn:
 
 bash
-Copier le code
+
 yarn dev
